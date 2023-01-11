@@ -1,1 +1,2 @@
-# -Java_Selenium_WebDriver_TestNG_saucedemo.com
+# Automated Java_Selenium_WebDriver_TestNG tests on saucedemo.com
+OOP  tests performed on login, menuOptions, ordering items functionalities,...
